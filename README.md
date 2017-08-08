@@ -2,11 +2,10 @@
 自定义二维码生成,只需要导入一个NPQRCodeManager即可
 
 ###二维码生成
-<img src="https://github.com/XiangHongJiang/CustomQRCodeProduct/tree/master/ReadMeFile/QR0.png" width="200" height="300">
+![image](https://github.com/XiangHongJiang/CustomQRCodeProduct/tree/master/ReadMeFile/QR0.png)
 
 ###改色
-<img src="(https://github.com/XiangHongJiang/CustomQRCodeProduct/tree/master/ReadMeFile/QR1.png" width="290" align="top">
-
+<img src="https://github.com/XiangHongJiang/CustomQRCodeProduct/tree/master/ReadMeFile/QR1.png" width="200" height="300">
 
 ###加自定义logo
 ![image](https://github.com/XiangHongJiang/CustomQRCodeProduct/tree/master/ReadMeFile/QR2.png)
