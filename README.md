@@ -1,7 +1,7 @@
 # CustomQRCodeProduct
 自定义二维码生成,只需要导入一个NPQRCodeManager即可
 
-###二维码生成
+二维码生成
 ![image](https://github.com/XiangHongJiang/CustomQRCodeProduct/tree/master/ReadMeFile/QR0.png)
 
 ###改色
